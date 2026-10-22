@@ -1,1 +1,1 @@
-Hello from Git workshop
+Hello from my Git workshop
